@@ -1,6 +1,5 @@
 f = 0
 z = True
-b=0
 h=0
 while z==True:
     h+=1
