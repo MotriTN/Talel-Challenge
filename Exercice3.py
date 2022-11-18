@@ -1,4 +1,4 @@
-f = 0
+f = 1
 z = True
 h=0
 while z==True:
